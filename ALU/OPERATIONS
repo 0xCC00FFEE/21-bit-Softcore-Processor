@@ -1,0 +1,21 @@
+- 21-bit Adding using Carry Look-Ahead Adder
+- 4x4 Multiplier
+- isA 21-bit Subtraction
+- isA Divider circuit
+- 21-bit AND
+- 21-bit OR
+- 21-bit XOR
+- 21-bit 1's Complement
+- Increment by 1
+- Decrement by 1
+- Logical Binary Left Shift
+- Logical Binary Right Shift
+- Arithmetic Binary Right Shift
+- Left Binary Rotation
+- Right Binary Rotation
+- Store constant into register X
+- Store Memory location content into register X
+- Store register X content into memory location
+- MOV instruction
+- Comparison instruction, compares two digits in two registers
+- 
